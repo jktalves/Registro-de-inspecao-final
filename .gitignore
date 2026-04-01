@@ -1,0 +1,13 @@
+# Executável gerado
+*.exe
+dist/
+build/
+__pycache__/
+*.pyc
+
+# Arquivos temporários do Word
+~$*.doc
+~$*.docx
+
+# Spec gerado pelo PyInstaller (opcional manter)
+# *.spec
